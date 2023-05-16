@@ -15,5 +15,5 @@ In the newer version of Unity, load your project. Using the Tools/Hierarchy Fixe
 ## Restoring the desired sibling order
 In the older version of Unity, load your project. Once again, open the tool and select the scene you wish to fix. Then click the Fix Up Hierarchy(ies) button. This will read the desired sibling order and update the scene. Do not forget to save the updated scene.
 
-## Additionl Notes
+## Additional Notes
 Make sure the projects in the new and old versions are exactly the same (of course other than variations upon import due to the Unity version differences). There is some output in the Console when fixing up the hierarchy indicating what is being moved or any errors encountered.
